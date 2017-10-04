@@ -5,3 +5,5 @@ en función de ciertas condiciones.
 Es un segmento de un algoritmo o programa cuyas instrucciones 
 se repiten un número determinado de veces mientras se cumpla 
 una determinada condición.
+
+EJEMPLOS DE CICLOS REPETITIVOS
