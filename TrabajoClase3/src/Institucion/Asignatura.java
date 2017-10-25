@@ -31,7 +31,7 @@ public class Asignatura {
     
     @Override
     public String toString(){
-        String cadena = String.format("%s con número de crédito", 
+        String cadena = String.format("%s con numero de credito", 
                 obtener_nombre(), obtener_nombre());
         return cadena;
     }
